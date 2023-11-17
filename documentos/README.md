@@ -1,11 +1,9 @@
-# Documentación
-
 ## Especialización en analítica y ciencia de datos 2023 - Cohorte VI
 
 ### ME04 Seminario - John Byron Alzate, Jorge Genes Padilla
 
 
-### Generalidades
+### Generalidades del proyecto a realizar
 
 El presente repositorio contiene la data y el análisis pertinente al alcance establecido para la entrega #4 de la asignatura Seminario de la Especialización en Analítica y Ciencia de Datos 2023 - Cohorte VI - Universidad de Antioquia.
 
@@ -15,12 +13,12 @@ El repositorio actual es de uso público, por lo tanto, cualquier aporte, inquie
 
 El presente proyecto contiene los siguientes archivos de acuerdo con los lineamientos estipulados en la rúbrica:
 
-1. bd_entrega_4.csv: Dataset original encontrado en la página web de MEData; sin transformar, contiene mas de un millón de filas de registros y mas de 60 columnas.
-2. Entrega_4_seminario_DEF.ipynb: Archivo con el código utilizado para el análisis estadístico y transformación del dataset anterior.
-3. ME04 - Avance Monografía.pdf: Rúbrica del Momento evaluativo #4 de la asignatura Seminario, Especialización en analítica y ciencia de datos 2023 - Cohorte VI
-4. bd_entrega_4_archivo_salida: Archivo que contiene el dataset transformado, despues de aplicarsele técnicas de categorización y clasificación de variables.
-5. README.md: Archivo presente.
-6. G11-ME04-JohnAlzate-JorgeGenes.docx: Documento que contiene todo el analisis realizado para el momento evaluativo #4 de la asignatura seminario.
+1. bd_entrega_4.csv: Dataset original encontrado en la página web de MEData; sin transformar, contiene mas de un millón de filas de registros y mas de 60 columnas. Debido a su peso no puede ser cargado en el presente repositorio, pero puede descargarse a través del siguiente enlace: https://drive.google.com/file/d/1yEoAMXfNiC8sVAktT77Ryumm-_yYcXcP/view?usp=drive_link
+2. Entrega_4_seminario_DEF.ipynb: Archivo con el código utilizado para el análisis estadístico y transformación del dataset anterior; Se encuentra en el repositorio actual.
+3. ME04 - Avance Monografía.pdf: Rúbrica del Momento evaluativo #4 de la asignatura Seminario, Especialización en analítica y ciencia de datos 2023 - Cohorte VI; Se encuentra en el repositorio actual.
+4. bd_entrega_4_archivo_salida: Archivo que contiene el dataset transformado, despues de aplicarsele técnicas de categorización y clasificación de variables. Se obtiene durante la ejecución del código y se encuentra en el repositorio actual.
+5. README.md: Archivo presente; Se encuentra en el repositorio actual.
+6. G11-ME04-JohnAlzate-JorgeGenes.docx: Documento que contiene todo el analisis realizado para el momento evaluativo #4 de la asignatura seminario; Se encuentra en el repositorio actual.
 
 ### Origen de los datos
 
